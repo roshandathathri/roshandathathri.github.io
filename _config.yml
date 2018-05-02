@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Roshan Dathathri"
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Science at the University of Texas, Austin"
+  bio              : "PhD student in Computer Science"
   location         : "Austin, Texas"
-  employer         :
+  employer         : "University of Texas at Austin"
   googlescholar    : "https://scholar.google.com/citations?user=qTJqyyIAAAAJ&hl=en"
   email            : "roshan (at) cs (dot) utexas (dot) edu"
   uri              :
