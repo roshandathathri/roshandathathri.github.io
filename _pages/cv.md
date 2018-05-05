@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+https://www.cs.utexas.edu/~roshan/cv.pdf
+
 Education
 ======
 * B.S. in Github, Github University, 2012
