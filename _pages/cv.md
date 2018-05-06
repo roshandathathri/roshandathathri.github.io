@@ -18,7 +18,7 @@ Education
   * Advisor: [Dr. Keshav Pingali](http://www.cs.utexas.edu/~pingali/)
   * Courses: Prediction Mechanisms in Computer Architecture, Distributed Computing, Dynamic Compilation, Automated Verification, Automated Logical Reasoning, Programming Languages, Linear Algebra
   * CGPA: 3.67/4.0
-* M.Sc. (Engg.) in Computer Science, 2014
+* M.Sc. (Engg.) in Computer Science and Engineering, 2014
   * [Indian Institute of Science](http://www.csa.iisc.ernet.in/)
   * Advisor: [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/)
   * Thesis: Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures
