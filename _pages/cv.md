@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://www.cs.utexas.edu/~roshan/cv.pdf)
+[Also available in PDF format](https://www.cs.utexas.edu/~roshan/cv.pdf)
 
 Publications
 ======
