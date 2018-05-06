@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /~roshan/
 ---
 
 I am a Ph.D. student working with [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) in the [Intelligent Software Systems Lab](http://iss.ices.utexas.edu/) at the [Department of Computer Science, University of Texas at Austin](https://www.cs.utexas.edu/). I received my masters from the [Department of Computer Science and Automation, Indian Institute of Science](http://www.csa.iisc.ac.in/), where I worked with [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
