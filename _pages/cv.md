@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](https://www.cs.utexas.edu/~roshan/cv.pdf)
+[Download CV in PDF format here](https://www.cs.utexas.edu/~roshan/cv.pdf)
 
 Education
 ======
