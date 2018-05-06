@@ -17,6 +17,8 @@ A thesis submitted for the Degree of Master of Science (Engineering) in Computer
 
 [Download thesis here](https://www.cs.utexas.edu/~roshan/Roshan_MSc_Thesis.pdf)
 
+[Download slides here](https://www.cs.utexas.edu/~roshan/Roshan_MSc_Thesis_Slides.pdf)
+
 ### Abstract
 
 Programming for parallel architectures that do not have a shared address space
