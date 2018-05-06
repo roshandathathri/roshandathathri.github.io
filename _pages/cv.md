@@ -11,12 +11,6 @@ redirect_from:
 
 [Also available in PDF format](https://www.cs.utexas.edu/~roshan/cv.pdf)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Education
 ======
 * Ph.D. in Computer Science (ongoing)
@@ -34,12 +28,6 @@ Education
   * [B. M. S. College of Engineering](http://www.bmsce.in/)
   * Aggregate: 74%
   
-Teaching Assistant
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Professional experience
 ======
 * Summer 2018: Research Intern 
@@ -62,6 +50,18 @@ Professional experience
   * [National Instruments (NI) R & D](http://www.ni.com/)
   * Project: Incremental layout for a dynamic graph
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching Assistant
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Service
 ======
 * Code Generation and Optimization (CGO) Artifact Evaluation Committeee (AEC), 2018
