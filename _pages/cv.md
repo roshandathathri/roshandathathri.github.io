@@ -30,24 +30,24 @@ Education
   
 Professional experience
 ======
-* Summer 2018: Research Intern 
-  * [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/)
+* [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/) : Summer 2018
+  * Research Intern 
   * Supervisor: [Dr. Saeed Maleki](http://marwah.org://www.microsoft.com/en-us/research/people/saemal/)
 
-* Summer 2015: Research Intern 
-  * [Hewlett Packard Labs](https://www.labs.hpe.com/)
+* [Hewlett Packard Labs](https://www.labs.hpe.com/) : Summer 2015
+  * Research Intern
   * Supervisor: [Dr. Manish Marwah](http://marwah.org/)
 
-* November 2013 to July 2014: Research Scholar
-  * [Ohio State University](https://cse.osu.edu/)
+* [Ohio State University](https://cse.osu.edu/) : November 2013 to July 2014
+  * Research Scholar
   * Supervisor: [Dr. P. Sadayappan](http://www.cse.ohio-state.edu/~saday/)
 
-* July 2008 to July 2011: Staff Software Engineer
-  * [National Instruments (NI) R & D](http://www.ni.com/)
+* [National Instruments (NI) R & D](http://www.ni.com/) : July 2008 to July 2011
+  * Staff Software Engineer
   * Role: Improving the compile-time and runtime performance of the LabVIEW compiler
 
-* January 2008 to June 2008: Research Intern
-  * [National Instruments (NI) R & D](http://www.ni.com/)
+* [National Instruments (NI) R & D](http://www.ni.com/) : January 2008 to June 2008
+  * Research Intern
   * Project: Incremental layout for a dynamic graph
   
 Publications
