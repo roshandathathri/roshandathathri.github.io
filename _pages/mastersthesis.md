@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Master's Thesis"
-permalink: /mastersthesis
+permalink: /mastersthesis/
 author_profile: true
 redirect_from:
-  - /msthesis
+  - /msthesis/
 ---
 
 {% include base_path %}
