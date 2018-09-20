@@ -32,7 +32,7 @@ Professional experience
 ======
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/) : Summer 2018
   * Research Intern 
-  * Supervisor: [Dr. Saeed Maleki](http://marwah.org://www.microsoft.com/en-us/research/people/saemal/)
+  * Supervisor: [Dr. Madan Musuvathi](http://www.microsoft.com/en-us/research/people/madanm/)
 
 * [Hewlett Packard Labs](https://www.labs.hpe.com/) : Summer 2015
   * Research Intern
@@ -55,6 +55,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* IPDPS 2018 Outstanding Poster Presentation Award, 3rd Place ("Partitioning Policies for Distributed Graph Analytics")
 
 Teaching Assistant
 ======
