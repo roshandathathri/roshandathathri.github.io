@@ -58,7 +58,7 @@ Publications
 
 Awards
 ======
-* IPDPS 2018 Outstanding Poster Presentation Award, 3rd Place ("Partitioning Policies for Distributed Graph Analytics")
+* Outstanding Poster Presentation Award, "Partitioning Policies for Distributed Graph Analytics", IEEE International Parallel and Distributed Processing Symposium (IPDPS) 2018.
 
 Teaching Assistant
 ======
