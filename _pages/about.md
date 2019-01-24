@@ -19,8 +19,9 @@ I am broadly interested in improving the performance of parallel and distributed
 
 # News
 
+* Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper got accepted to **IPDPS 2019**.
 * Our [Partitioning Policies](https://roshandathathri.github.io/publication/2018-vldb) paper got accepted to **PVLDB 12(4)**.
-* Our [Min-Rounds Betweenness Centrality](https://roshandathathri.github.io/publication/2019-ppopp) paper got accepted to **PPoPP 2019**.
+* Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper got accepted to **PPoPP 2019**.
 * Our [Phoenix resilience](https://roshandathathri.github.io/publication/2019-asplos) paper got accepted to **ASPLOS 2019**.
 * My "Partitioning Policies for Distributed Graph Analytics" poster won **IPDPS 2018** Outstanding Poster Presentation Award, 3rd Place.
 * Our [Abelian compiler](https://roshandathathri.github.io/publication/2018-europar) paper got accepted to **EuroPar 2018**.
