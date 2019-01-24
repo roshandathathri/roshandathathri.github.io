@@ -9,7 +9,7 @@ redirect_from:
   - /~roshan/
 ---
 
-I am a Ph.D. student working with [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) in the [Intelligent Software Systems Lab](http://iss.ices.utexas.edu/) at the [Department of Computer Science, University of Texas at Austin](https://www.cs.utexas.edu/). I received my masters from the [Department of Computer Science and Automation, Indian Institute of Science](http://www.csa.iisc.ac.in/), where I worked with [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
+I am a Ph.D. student working with [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) in the [Intelligent Software Systems Lab](http://iss.ices.utexas.edu/) at the [University of Texas at Austin](https://www.cs.utexas.edu/). I received my masters from the [Indian Institute of Science](http://www.csa.iisc.ac.in/), where I worked with [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
 
 During the summer of 2018, I was a research intern in [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/), where I collaborated with several researchers including [Dr. Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/) and [Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/).
 
