@@ -26,4 +26,4 @@ I am broadly interested in improving the performance of parallel and distributed
 * My "Partitioning Policies for Distributed Graph Analytics" poster won **IPDPS 2018** Outstanding Poster Presentation Award, 3rd Place.
 * Our [Abelian compiler](https://roshandathathri.github.io/publication/2018-europar) paper got accepted to **EuroPar 2018**.
 * Our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) paper got accepted to **PLDI 2018**.
-* Our [Light-weight Communication Inteface (LCI)](https://roshandathathri.github.io/publication/2018-ipdps) paper got accepted to **IPDPS 2018**.
+* Our [Light-weight Communication Interface (LCI)](https://roshandathathri.github.io/publication/2018-ipdps) paper got accepted to **IPDPS 2018**.
