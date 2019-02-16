@@ -19,11 +19,12 @@ I am broadly interested in improving the performance of parallel and distributed
 
 # News
 
-* Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper got accepted to **IPDPS 2019**.
-* Our [Partitioning Policies](https://roshandathathri.github.io/publication/2018-vldb) paper got accepted to **PVLDB 12(4)**.
-* Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper got accepted to **PPoPP 2019**.
-* Our [Phoenix resilience](https://roshandathathri.github.io/publication/2019-asplos) paper got accepted to **ASPLOS 2019**.
+* Our [Compiler for Fully-Homomorphic Neural-Network Inferencing (CHET)](https://roshandathathri.github.io/publication/2019-pldi) was accepted to **PLDI 2019**.
+* Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper was accepted to **IPDPS 2019**.
+* Our [Partitioning Policies](https://roshandathathri.github.io/publication/2018-vldb) paper was accepted to **PVLDB 12(4)**.
+* Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper was accepted to **PPoPP 2019**.
+* Our [Phoenix resilience](https://roshandathathri.github.io/publication/2019-asplos) paper was accepted to **ASPLOS 2019**.
 * My "Partitioning Policies for Distributed Graph Analytics" poster won **IPDPS 2018** Outstanding Poster Presentation Award, 3rd Place.
-* Our [Abelian compiler](https://roshandathathri.github.io/publication/2018-europar) paper got accepted to **EuroPar 2018**.
-* Our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) paper got accepted to **PLDI 2018**.
-* Our [Light-weight Communication Interface (LCI)](https://roshandathathri.github.io/publication/2018-ipdps) paper got accepted to **IPDPS 2018**.
+* Our [Abelian compiler](https://roshandathathri.github.io/publication/2018-europar) paper was accepted to **EuroPar 2018**.
+* Our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) paper was accepted to **PLDI 2018**.
+* Our [Light-weight Communication Interface (LCI)](https://roshandathathri.github.io/publication/2018-ipdps) paper was accepted to **IPDPS 2018**.
