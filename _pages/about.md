@@ -19,6 +19,7 @@ I am broadly interested in improving the performance of parallel and distributed
 
 # News
 
+* I presented our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) work at a mini-symposium in **SIAM CSE 2019**.
 * Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper got accepted to **IPDPS 2019**.
 * Our [Partitioning Policies](https://roshandathathri.github.io/publication/2018-vldb) paper got accepted to **PVLDB 12(4)**.
 * Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper got accepted to **PPoPP 2019**.
