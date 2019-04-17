@@ -62,6 +62,7 @@ movement code.
 
 # News
 
+* Our work on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://arxiv.org/abs/1904.07162) is now on arxiv.
 * I presented our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) work at a mini-symposium in **SIAM CSE 2019**.
 * Our [Compiler for Fully-Homomorphic Neural-Network Inferencing (CHET)](https://roshandathathri.github.io/publication/2019-pldi) was accepted to **PLDI 2019**.
 * Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper was accepted to **IPDPS 2019**.
