@@ -62,12 +62,12 @@ movement code.
 
 # News
 
-* Our work on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://arxiv.org/abs/1904.07162) is now on arxiv.
+* Our work on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://arxiv.org/abs/1904.07162) is now on arxiv (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
 * I presented our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) work at a mini-symposium in **SIAM CSE 2019**.
 * Our [Compiler for Fully-Homomorphic Neural-Network Inferencing (CHET)](https://roshandathathri.github.io/publication/2019-pldi) was accepted to **PLDI 2019**.
 * Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper was accepted to **IPDPS 2019**.
 * Our [Partitioning Policies](https://roshandathathri.github.io/publication/2018-vldb) paper was accepted to **PVLDB 12(4) 2018**.
-* Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper was accepted to **PPoPP 2019**.
+* Our [Min-Rounds Betweenness Centrality (MRBC)](https://roshandathathri.github.io/publication/2019-ppopp) paper was accepted to **PPoPP 2019** (Read about our work in the [R&D magazine article](https://www.rdmag.com/article/2019/04/determining-importance-connections-unstructured-data)).
 * Our [Phoenix resilience](https://roshandathathri.github.io/publication/2019-asplos) paper was accepted to **ASPLOS 2019**.
 * My "Partitioning Policies for Distributed Graph Analytics" poster won **IPDPS 2018** Outstanding Poster Presentation Award, 3rd Place.
 * Our [Abelian compiler](https://roshandathathri.github.io/publication/2018-europar) paper was accepted to **EuroPar 2018**.
