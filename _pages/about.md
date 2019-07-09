@@ -35,6 +35,7 @@ while providing fault-tolerance.
 [ASPLOS 2019](https://roshandathathri.github.io/publication/2019-asplos), 
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
+[PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
 [IPDPS 2019](https://roshandathathri.github.io/publication/2019-ipdps), 
 [IPDPS 2018](https://roshandathathri.github.io/publication/2018-ipdps), 
 [Euro-Par 2018](https://roshandathathri.github.io/publication/2018-europar), 
@@ -62,6 +63,7 @@ movement code.
 
 # News
 
+* Our paper on [Bulk-Asynchronous Gluon system](https://roshandathathri.github.io/publication/2019-pact) for distributed and heterogeneous graph analytics was accepted to **PACT 2019**.
 * Our work on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://arxiv.org/abs/1904.07162) is now on arxiv (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
 * I presented our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) work at a mini-symposium in **SIAM CSE 2019**.
 * Our [Compiler for Fully-Homomorphic Neural-Network Inferencing (CHET)](https://roshandathathri.github.io/publication/2019-pldi) was accepted to **PLDI 2019**.
