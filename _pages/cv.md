@@ -30,6 +30,10 @@ Education
   
 Professional experience
 ======
+* [Microsoft Research](https://www.microsoft.com/en-us/research/group/cryptography-research/) : Summer 2019
+  * Research Intern 
+  * Supervisor: [Dr. Kim Laine](http://www.microsoft.com/en-us/research/people/kilai/)
+
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/) : Summer 2018
   * Research Intern 
   * Supervisor: [Dr. Madan Musuvathi](http://www.microsoft.com/en-us/research/people/madanm/)
@@ -73,7 +77,7 @@ Service
 Technical Skills
 ======
 * Programming: C, C++, OpenMP, MPI, Python
-* Applications: Vim, Git, Latex, Visual Studio, Perforce
+* Applications: Vim, Git, Latex, VS Code, Visual Studio, Perforce
 
 Hobbies
 ======

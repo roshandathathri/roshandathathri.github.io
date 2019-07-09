@@ -15,10 +15,11 @@ in the [Intelligent Software Systems Lab](http://iss.ices.utexas.edu/) at the
 [Indian Institute of Science](http://www.csa.iisc.ac.in/), where I worked with 
 [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
 
-During the summer of 2018, I was a research intern in 
+During the summer of 2018 and 2019, I was a research intern in 
 [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/), 
 where I collaborated with several researchers including 
-[Dr. Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/) and 
+[Dr. Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/), 
+[Dr. Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/), and 
 [Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/).
 
 # Research interests
