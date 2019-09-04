@@ -62,6 +62,7 @@ Publications
 
 Awards
 ======
+* Student Innovation Award, "DistTC: High Performance Distributed Triangle Counting" IEEE High Performance Extreme Computing (HPEC) GraphChallenge 2019.
 * Outstanding Poster Presentation Award, "Partitioning Policies for Distributed Graph Analytics", IEEE International Parallel and Distributed Processing Symposium (IPDPS) 2018.
 
 Teaching Assistant
