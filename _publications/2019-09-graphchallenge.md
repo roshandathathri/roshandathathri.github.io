@@ -7,7 +7,7 @@ venue: 'IEEE High Performance Extreme Computing (HPEC)'
 paperurl: ''
 citation: 'Loc Hoang, Vishwesh Jatala, Xuhao Chen, Udit Agarwal, <b>Roshan Dathathri</b>, Gurbinder Gill, Keshav Pingali, “DistTC: High Performance Distributed Triangle Counting,” Proceedings of the IEEE High Performance Extreme Computing (HPEC), September 2019.'
 ---
-[(Download publication here)](https://www.cs.utexas.edu/~roshan/DistTC.pdf) [(Download source code here)](https://github.com/IntelligentSoftwareSystems/Galois)
+[(Download publication here)](https://www.cs.utexas.edu/~roshan/DistTC.pdf) [(Download slides here)](https://www.cs.utexas.edu/~roshan/DistTC.pptx) [(Download source code here)](https://github.com/IntelligentSoftwareSystems/Galois)
 
 ### Abstract
 
