@@ -32,7 +32,7 @@ Professional experience
 ======
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/cryptography-research/) : Summer 2019
   * Research Intern 
-  * Supervisor: [Dr. Kim Laine](http://www.microsoft.com/en-us/research/people/kilai/)
+  * Supervisor: [Dr. Madan Musuvathi](http://www.microsoft.com/en-us/research/people/madanm/)
 
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/) : Summer 2018
   * Research Intern 
@@ -62,8 +62,9 @@ Publications
 
 Awards
 ======
-* Student Innovation Award, "DistTC: High Performance Distributed Triangle Counting" IEEE High Performance Extreme Computing (HPEC) GraphChallenge 2019.
-* Outstanding Poster Presentation Award, "Partitioning Policies for Distributed Graph Analytics", IEEE International Parallel and Distributed Processing Symposium (IPDPS) 2018.
+* **Best Paper Nominee**, "Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics", IEEE International Conference on Parallel Architectures and Compilation Techniques (**PACT**), September 2019.
+* **Student Innovation Award**, "DistTC: High Performance Distributed Triangle Counting", IEEE High Performance Extreme Computing (**HPEC**) GraphChallenge, September 2019.
+* **Outstanding Poster Presentation Award** (3rd place), "Partitioning Policies for Distributed Graph Analytics", IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), May 2018.
 
 Teaching Assistant
 ======
@@ -73,12 +74,12 @@ Teaching Assistant
 
 Service
 ======
-* Code Generation and Optimization (CGO) Artifact Evaluation Committeee (AEC), 2018
+* Code Generation and Optimization (**CGO**) Artifact Evaluation Committeee (**AEC**), 2018
 
 Technical Skills
 ======
 * Programming: C, C++, OpenMP, MPI, Python
-* Applications: Vim, Git, Latex, VS Code, Visual Studio, Perforce
+* Applications: Visual Studio Code, Vim, Git, Latex
 
 Hobbies
 ======
