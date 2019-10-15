@@ -28,7 +28,7 @@ I am broadly interested in improving the performance of parallel and distributed
 I work on designing and building programming models, compilers, and runtime systems that 
 enable programmers to extract performance from parallel architectures like clusters of CPUs and GPUs. 
 
-**Distributed Graph Analytics**: For graph analytical applications, I have designed 
+**Distributed, Heterogeneous Graph Analytics**: For graph analytical applications, I have designed 
 programming substrates and developed runtime systems that exploit domain knowledge to 
 partition graphs, optimize communication, and scale-out to distributed CPUs and GPUs, 
 while providing fault-tolerance. 
@@ -39,7 +39,8 @@ while providing fault-tolerance.
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
 [IPDPS 2019](https://roshandathathri.github.io/publication/2019-ipdps), 
 [IPDPS 2018](https://roshandathathri.github.io/publication/2018-ipdps), 
-[Euro-Par 2018](https://roshandathathri.github.io/publication/2018-europar), 
+[Euro-Par 2018](https://roshandathathri.github.io/publication/2018-europar),
+[HPEC GraphChallenge 2019](https://roshandathathri.github.io/publication/2019-graphchallenge), 
 [BigData 2017](https://roshandathathri.github.io/publication/2017-bigdata)]
 
 **Privacy-Preserving Computation Using Homomorphic Encryption**: I have designed and 
