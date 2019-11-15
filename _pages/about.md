@@ -22,6 +22,8 @@ where I collaborated with several researchers including
 [Dr. Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/), and 
 [Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/).
 
+**I am on the academic job market this year.**
+
 # Research interests
 
 I am broadly interested in improving the performance of parallel and distributed programs. 
