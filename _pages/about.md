@@ -39,7 +39,7 @@ for *neural network inferencing on encrypted data*.
 I aim to utilize this experience to build programming systems for 
 **large-scale sparse computation** and **privacy-preserving computation**.
 
-Existing computers have complex parallel architectures including
+<!-- Existing computers have complex parallel architectures including
 heterogeneous processors like CPUs and GPUs, non-uniform memory, and 
 non-volatile memory. 
 It is tedious for application developers to get good performance 
@@ -52,7 +52,7 @@ I aim to bridge the gap between application domain experts and
 parallel architectures
 by working on *programming models, compilers, and 
 runtimes that enable application developers to extract performance 
-from parallel architectures with little effort*. 
+from parallel architectures with little effort*.  -->
 
 **Distributed, Heterogeneous Graph Analytics**: 
 Unstructured datasets are used by applications in areas such as 
