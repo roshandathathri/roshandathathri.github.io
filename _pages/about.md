@@ -24,16 +24,49 @@ where I collaborated with several researchers including
 
 **I am on the academic job market this year.**
 
-# Research interests
+# Research Interests
 
-I am broadly interested in improving the performance of parallel and distributed programs. 
-I work on designing and building programming models, compilers, and runtime systems that 
-enable programmers to extract performance from parallel architectures like clusters of CPUs and GPUs. 
+My goal is to make it easier for programmers to develop 
+efficient 
+applications that scale on 
+parallel, distributed, and heterogeneous architectures. 
+I am especially interested in applications 
+that operate on unstructured graphs or encrypted data. 
+Towards this goal, I have developed **programming systems** 
+for *graph analytics on distributed and heterogeneous clusters*
+and
+for *neural network inferencing on encrypted data*.
+I aim to utilize this experience to build programming systems for 
+**large-scale sparse computation** and **privacy-preserving computation**.
 
-**Distributed, Heterogeneous Graph Analytics**: For graph analytical applications, I have designed 
-programming substrates and developed runtime systems that exploit domain knowledge to 
-partition graphs, optimize communication, and scale-out to distributed CPUs and GPUs, 
-while providing fault-tolerance. 
+Existing computers have complex parallel architectures including
+heterogeneous processors like CPUs and GPUs, non-uniform memory, and 
+non-volatile memory. 
+It is tedious for application developers to get good performance 
+without utilizing the architectural features. 
+Existing programs come from diverse application domains and are written 
+by experts in those domains, rather than experts in parallel programming.
+It is also difficult to get good performance unless 
+the domain expertise is exploited.
+I aim to bridge the gap between application domain experts and 
+parallel architectures
+by working on *programming models, compilers, and 
+runtimes that enable application developers to extract performance 
+from parallel architectures with little effort*. 
+
+**Distributed, Heterogeneous Graph Analytics**: 
+Unstructured datasets are used by applications in areas such as 
+machine learning, 
+data mining, bioinformatics, network science, and security. 
+These datasets may be represented as graphs and these graphs may have 
+billions of nodes and trillions of edges. 
+One way to process such large datasets is to use distributed clusters. 
+For graph analytical applications, I have designed and built 
+programming systems that exploit domain knowledge to partition graphs 
+and optimize communication, 
+while providing application-specific fault-tolerance. 
+Existing shared-memory graph analytics frameworks or applications 
+can use our system to scale out to distributed CPUs and GPUs. 
 [[PLDI 2018](https://roshandathathri.github.io/publication/2018-pldi), 
 [ASPLOS 2019](https://roshandathathri.github.io/publication/2019-asplos), 
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
@@ -44,23 +77,44 @@ while providing fault-tolerance.
 [Euro-Par 2018](https://roshandathathri.github.io/publication/2018-europar),
 [HPEC GraphChallenge 2019](https://roshandathathri.github.io/publication/2019-graphchallenge), 
 [BigData 2017](https://roshandathathri.github.io/publication/2017-bigdata)]
+<!-- I intend to build on this to support  
+*distributed and heterogeneous systems for sparse computation 
+like graph databases, graph mining, graph embeddings,
+sparse deep learning, and mesh-based numerical simulation*. -->
 
-**Privacy-Preserving Computation Using Homomorphic Encryption**: I have designed and 
-developed an optimizing compiler for translating tensor programs like neural-network 
-inferencing to run on encrypted data using Fully Homomorphic Encryption (FHE) libraries 
-efficiently, while guaranteeing security and accuracy of the computation. 
+**Privacy-Preserving Computation Using Homomorphic Encryption**: 
+In many applications, privacy of the datasets used must be preserved. 
+Fully-Homomorphic Encryption (FHE) enables computation on encrypted data 
+without requiring the secret key. 
+However, cryptographic domain expertise is required to use FHE.
+In my view, FHE libraries are akin to specialized parallel architectures. 
+I have developed an optimizing compiler for 
+translating tensor programs like neural network inferencing 
+to run on encrypted data using FHE libraries 
+efficiently, while guaranteeing security and accuracy 
+of the computation.
 [[PLDI 2019](https://roshandathathri.github.io/publication/2019-pldi)]
+<!-- Building on this, I intend to help program *privacy-preserving 
+applications including large-scale data analytics and databases*. -->
 
-**Threat Detection Using Graph Querying**: In this project supported by DARPA, property 
+<!-- **Threat Detection Using Graph Querying**: In this project supported by DARPA, property 
 graphs with attributes are built from event logs on machines. Advanced Persistent 
 Threats (APT) on these machines are detected by querying the property graphs for 
 specific patterns. I have designed a compiler for running these queries efficiently 
-so that APTs can be detected in real-time.
+so that APTs can be detected in real-time. -->
 
-**Affine Loop Nests**: In the past, I have developed compiler techniques using the 
-polyhedral model to automatically extract tasks from sequential affine loop nests and 
-dynamically schedule them to run on distributed CPUs and GPUs with efficient data 
-movement code. 
+**Affine Loop Nests**: 
+Any sequence of arbitrarily nested loops with affine bounds and accesses 
+are known as regular or affine loop nests. 
+Examples include
+stencil-style computations, linear algebra kernels, 
+and alternating direction implicit integrations.
+During my masters, I developed compiler techniques using the polyhedral model 
+to automatically extract tasks from sequential affine loop nests and 
+dynamically schedule them to run on distributed CPUs and 
+GPUs with efficient data movement code. 
+I also helped generate distributed-memory code for loop nests 
+that contain both affine and irregular accesses.
 [[PACT 2013](https://roshandathathri.github.io/publication/2013-pact), 
 [PPoPP 2015](https://roshandathathri.github.io/publication/2015-ppopp), 
 [TOPC 2016](https://roshandathathri.github.io/publication/2016-topc)]
