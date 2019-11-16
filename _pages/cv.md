@@ -32,7 +32,7 @@ Professional experience
 ======
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/cryptography-research/) : Summer 2019
   * Research Intern 
-  * Supervisor: [Dr. Madan Musuvathi](http://www.microsoft.com/en-us/research/people/madanm/)
+  * Supervisor: [Dr. Kim Laine](http://www.microsoft.com/en-us/research/people/kilai/)
 
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/) : Summer 2018
   * Research Intern 
@@ -81,8 +81,8 @@ Technical Skills
 * Programming: C, C++, OpenMP, MPI, Python
 * Applications: Visual Studio Code, Vim, Git, Latex
 
-Hobbies
+<!-- Hobbies
 ======
 * Travelling and hiking
-* Reading novels
+* Reading novels -->
 
