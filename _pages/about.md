@@ -129,6 +129,8 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our work on [Pangolin graph mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU is now on arxiv. 
+* Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
 * Our work on [Distributed Word2Vec using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
 * Our paper on [Distributed Triangle Counting on GPUs (DistTC)](https://roshandathathri.github.io/publication/2019-graphchallenge) was accepted to **IEEE HPEC GraphChallenge 2019** and it won the **Student Innovation Award**.
 * Our paper on [Bulk-Asynchronous Gluon system](https://roshandathathri.github.io/publication/2019-pact) for distributed and heterogeneous graph analytics was accepted to **PACT 2019** and was **Nominated for Best Paper**.
