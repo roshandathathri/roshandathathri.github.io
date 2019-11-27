@@ -26,18 +26,26 @@ where I collaborated with several researchers including
 
 # Research Interests
 
-My goal is to make it easier for programmers to develop 
-efficient 
-applications that scale on 
-parallel, distributed, and heterogeneous architectures. 
-I am especially interested in applications 
-that operate on unstructured graphs or encrypted data. 
-Towards this goal, I have developed **programming systems** 
-for *graph analytics on distributed and heterogeneous clusters*
+My goal is to build domain-specific 
+**programming languages, compilers, and runtime systems**
+that make it easy to develop efficient
+**sparse computation** and **privacy-preserving computation**
+on large-scale *distributed*
+clusters, 
+while utilizing 
+*heterogeneous* architectures.
+I have built programming systems for 
+**distributed and heterogeneous graph analytics**
 and
-for *neural network inferencing on encrypted data*.
-I aim to utilize this experience to build programming systems for 
-**large-scale sparse computation** and **privacy-preserving computation**.
+**privacy-preserving neural network inferencing**.
+My vision is to enable 
+developers to express their application 
+in a domain-specific language 
+and run it efficiently on a variety of architectures 
+under different scenarios like sparsity or privacy of the datasets.
+<!-- and 
+introduces new techniques in programming systems
+for sparse computing and privacy-preserving applications respectively.  -->
 
 <!-- Existing computers have complex parallel architectures including
 heterogeneous processors like CPUs and GPUs, non-uniform memory, and 
