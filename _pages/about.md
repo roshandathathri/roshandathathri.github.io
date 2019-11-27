@@ -35,9 +35,9 @@ clusters,
 while utilizing 
 *heterogeneous* architectures.
 I have built programming systems for 
-**distributed and heterogeneous graph analytics**
+*distributed and heterogeneous graph analytics*
 and
-**privacy-preserving neural network inferencing**.
+*privacy-preserving neural network inferencing*.
 My vision is to enable 
 developers to express their application 
 in a domain-specific language 
@@ -62,7 +62,7 @@ by working on *programming models, compilers, and
 runtimes that enable application developers to extract performance 
 from parallel architectures with little effort*.  -->
 
-**Distributed, Heterogeneous Graph Analytics**: 
+**Distributed and Heterogeneous Graph Analytics**: 
 Unstructured datasets are used by applications in areas such as 
 machine learning, 
 data mining, bioinformatics, network science, and security. 
@@ -90,7 +90,7 @@ can use our system to scale out to distributed CPUs and GPUs.
 like graph databases, graph mining, graph embeddings,
 sparse deep learning, and mesh-based numerical simulation*. -->
 
-**Privacy-Preserving Computation Using Homomorphic Encryption**: 
+**Privacy-Preserving Neural Network Inferencing**: 
 In many applications, privacy of the datasets used must be preserved. 
 Fully-Homomorphic Encryption (FHE) enables computation on encrypted data 
 without requiring the secret key. 
