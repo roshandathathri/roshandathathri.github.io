@@ -33,7 +33,8 @@ that make it easy to develop efficient
 on large-scale *distributed*
 clusters, 
 while utilizing 
-*heterogeneous* architectures.
+*heterogeneous* architectures. 
+Towards this goal,
 I have built programming systems for 
 *distributed and heterogeneous graph analytics*
 and
