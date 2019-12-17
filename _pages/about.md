@@ -81,6 +81,7 @@ can use our system to scale out to distributed CPUs and GPUs.
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
+[IPDPS 2020](https://roshandathathri.github.io/publication/2020-ipdps), 
 [IPDPS 2019](https://roshandathathri.github.io/publication/2019-ipdps), 
 [IPDPS 2018](https://roshandathathri.github.io/publication/2018-ipdps), 
 [Euro-Par 2018](https://roshandathathri.github.io/publication/2018-europar),
@@ -130,6 +131,7 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
 * Our work on [Pangolin graph mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU is now on arxiv. 
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
 * Our work on [Distributed Word2Vec using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
