@@ -131,6 +131,7 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our work on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://arxiv.org/abs/1912.11951) is now on arxiv.
 * Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
 * Our work on [Pangolin graph mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU is now on arxiv. 
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
