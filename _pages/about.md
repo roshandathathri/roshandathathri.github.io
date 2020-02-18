@@ -78,6 +78,7 @@ Existing shared-memory graph analytics frameworks or applications
 can use our system to scale out to distributed CPUs and GPUs. 
 [[PLDI 2018](https://roshandathathri.github.io/publication/2018-pldi), 
 [ASPLOS 2019](https://roshandathathri.github.io/publication/2019-asplos), 
+[VLDB 2020](https://arxiv.org/abs/1911.06969),
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
@@ -131,9 +132,9 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our work on [Pangolin graph pattern mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU was accepted to **VLDB 2020**. 
 * Our work on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://arxiv.org/abs/1912.11951) is now on arxiv.
 * Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
-* Our work on [Pangolin graph mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU is now on arxiv. 
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
 * Our work on [Distributed Word2Vec using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
 * Our paper on [Distributed Triangle Counting on GPUs (DistTC)](https://roshandathathri.github.io/publication/2019-graphchallenge) was accepted to **IEEE HPEC GraphChallenge 2019** and it won the **Student Innovation Award**.
