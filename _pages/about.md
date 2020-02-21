@@ -104,7 +104,8 @@ translating tensor programs like neural network inferencing
 to run on encrypted data using FHE libraries 
 efficiently, while guaranteeing security and accuracy 
 of the computation.
-[[PLDI 2019](https://roshandathathri.github.io/publication/2019-pldi)]
+[[PLDI 2020](https://arxiv.org/abs/1912.11951),
+[PLDI 2019](https://roshandathathri.github.io/publication/2019-pldi)]
 <!-- Building on this, I intend to help program *privacy-preserving 
 applications including large-scale data analytics and databases*. -->
 
@@ -132,8 +133,8 @@ that contain both affine and irregular accesses.
 
 # News
 
-* Our work on [Pangolin graph pattern mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU was accepted to **VLDB 2020**. 
-* Our work on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://arxiv.org/abs/1912.11951) is now on arxiv.
+* Our paper on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://arxiv.org/abs/1912.11951) was accepted to **PLDI 2020**.
+* Our paper on [Pangolin graph pattern mining](https://arxiv.org/abs/1911.06969) framework on a CPU or GPU was accepted to **VLDB 2020**. 
 * Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
 * Our work on [Distributed Word2Vec using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
