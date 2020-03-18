@@ -134,13 +134,13 @@ that contain both affine and irregular accesses.
 # News
 
 * Our paper on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://roshandathathri.github.io/publication/2020-pldi) was accepted to **PLDI 2020**.
+* Our paper on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://roshandathathri.github.io/publication/2020-vldb-2) was accepted to **VLDB 2020** (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
 * Our paper on [Pangolin Graph Pattern Mining](https://roshandathathri.github.io/publication/2020-vldb-1) framework on a CPU or GPU was accepted to **VLDB 2020**. 
 * Our work on [GraphAny2Vec Distributed Training of Embeddings using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
 * Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
 * Our paper on [Distributed Triangle Counting on GPUs (DistTC)](https://roshandathathri.github.io/publication/2019-graphchallenge) was accepted to **IEEE HPEC GraphChallenge 2019** and it won the **Student Innovation Award**.
 * Our paper on [Bulk-Asynchronous Gluon system](https://roshandathathri.github.io/publication/2019-pact) for distributed and heterogeneous graph analytics was accepted to **PACT 2019** and was **Nominated for Best Paper**.
-* Our work on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://arxiv.org/abs/1904.07162) is now on arxiv (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
 * I presented our [Gluon substrate](https://roshandathathri.github.io/publication/2018-pldi) work at a mini-symposium in **SIAM CSE 2019**.
 * Our [Compiler for Fully-Homomorphic Neural-Network Inferencing (CHET)](https://roshandathathri.github.io/publication/2019-pldi) was accepted to **PLDI 2019**.
 * Our [Customizable Streaming Edge Partitioner (CuSP)](https://roshandathathri.github.io/publication/2019-ipdps) paper was accepted to **IPDPS 2019**.
