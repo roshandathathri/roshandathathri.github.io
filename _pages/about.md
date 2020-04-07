@@ -78,7 +78,8 @@ Existing shared-memory graph analytics frameworks or applications
 can use our system to scale out to distributed CPUs and GPUs. 
 [[PLDI 2018](https://roshandathathri.github.io/publication/2018-pldi), 
 [ASPLOS 2019](https://roshandathathri.github.io/publication/2019-asplos), 
-[VLDB 2020](https://arxiv.org/abs/1911.06969),
+[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-1),
+[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-2),
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
@@ -104,7 +105,7 @@ translating tensor programs like neural network inferencing
 to run on encrypted data using FHE libraries 
 efficiently, while guaranteeing security and accuracy 
 of the computation.
-[[PLDI 2020](https://arxiv.org/abs/1912.11951),
+[[PLDI 2020](https://roshandathathri.github.io/publication/2020-pldi),
 [PLDI 2019](https://roshandathathri.github.io/publication/2019-pldi)]
 <!-- Building on this, I intend to help program *privacy-preserving 
 applications including large-scale data analytics and databases*. -->
