@@ -6,5 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Master's Thesis"
+  - title: "PhD Dissertation"
+    url: /phddissertation/
+
+  - title: "MS Thesis"
     url: /mastersthesis/

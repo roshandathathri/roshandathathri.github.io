@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /masterthesis/
   - /mastersthesis/
+  - /msc/
+  - /ms/
 ---
 
 {% include base_path %}
