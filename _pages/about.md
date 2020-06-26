@@ -9,20 +9,22 @@ redirect_from:
   - /~roshan/
 ---
 
-I am a Ph.D. student working with [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) 
-in the [Intelligent Software Systems Lab](http://iss.ices.utexas.edu/) at the 
-[University of Texas at Austin](https://www.cs.utexas.edu/). I received my masters from the 
-[Indian Institute of Science](http://www.csa.iisc.ac.in/), where I worked with 
+I am a post-doctoral researcher 
+in the [Intelligent Software Systems Lab](http://iss.oden.utexas.edu/) at the 
+[University of Texas at Austin](https://www.cs.utexas.edu/) 
+and an engineer in [KatanaGraph](https://katanagraph.com/), 
+the startup based in part on my PhD research. 
+I received my PhD from the [University of Texas at Austin](https://www.cs.utexas.edu/), 
+where I was advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).
+I received my masters from the 
+[Indian Institute of Science](http://www.csa.iisc.ac.in/), where I was advised by 
 [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
-
 During the summer of 2018 and 2019, I was a research intern in 
 [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/), 
 where I collaborated with several researchers including 
 [Dr. Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/), 
 [Dr. Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/), and 
 [Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/).
-
-**I am on the academic job market this year.**
 
 # Research Interests
 
@@ -136,7 +138,7 @@ that contain both affine and irregular accesses.
 
 * Our paper on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://roshandathathri.github.io/publication/2020-pldi) was accepted to **PLDI 2020**.
 * Our paper on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://roshandathathri.github.io/publication/2020-vldb-2) was accepted to **PVLDB 13(8) 2020** (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
-* Our paper on [Pangolin Graph Pattern Mining](https://roshandathathri.github.io/publication/2020-vldb-1) framework on a CPU or GPU was accepted to **PVLDB 13(8) 2020**. 
+* Our paper on [Pangolin Graph Pattern Mining](https://roshandathathri.github.io/publication/2020-vldb-1) framework on a CPU or GPU was accepted to **PVLDB 13(8) 2020** (Read about our work in the [UTCS blog](https://www.cs.utexas.edu/news/2020/pangolin-efficient-and-flexible-graph-mining-system-cpu-and-gpu)). 
 * Our work on [GraphAny2Vec Distributed Training of Embeddings using Gluon](http://arxiv.org/abs/1909.03359) is now on arxiv.
 * Our [Graph Analytics on Distributed GPUs](https://roshandathathri.github.io/publication/2020-ipdps) paper was accepted to **IPDPS 2020**.
 * Our work on an [Adaptive Load Balancer on GPUs](https://arxiv.org/abs/1911.09135) is now on arxiv.
