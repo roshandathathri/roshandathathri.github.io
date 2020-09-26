@@ -9,7 +9,7 @@ redirect_from:
   - /~roshan/
 ---
 
-I am an engineer in [KatanaGraph](https://katanagraph.com/), 
+I am an engineer in [Katana Graph](https://katanagraph.com/), 
 the startup based in part on my PhD research. 
 The startup was founded in 2020 by 
 [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) and
