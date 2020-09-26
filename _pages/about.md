@@ -9,16 +9,18 @@ redirect_from:
   - /~roshan/
 ---
 
-I am a post-doctoral researcher 
-in the [Intelligent Software Systems Lab](http://iss.oden.utexas.edu/) at the 
-[University of Texas at Austin](https://www.cs.utexas.edu/) 
-and an engineer in [KatanaGraph](https://katanagraph.com/), 
+I am an engineer in [KatanaGraph](https://katanagraph.com/), 
 the startup based in part on my PhD research. 
+The startup was founded in 2020 by 
+[Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) and
+[Dr. Chris Rossbach](https://www.cs.utexas.edu/~rossbach/).
+
 I received my PhD from the [University of Texas at Austin](https://www.cs.utexas.edu/), 
 where I was advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).
 I received my masters from the 
 [Indian Institute of Science](http://www.csa.iisc.ac.in/), where I was advised by 
 [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/).
+
 During the summer of 2018 and 2019, I was a research intern in 
 [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/), 
 where I collaborated with several researchers including 
@@ -31,12 +33,10 @@ where I collaborated with several researchers including
 My goal is to build domain-specific 
 **programming languages, compilers, and runtime systems**
 that make it easy to develop efficient
-**sparse computation** and **privacy-preserving computation**
-on large-scale *distributed*
-clusters, 
-while utilizing 
-*heterogeneous* architectures. 
-Towards this goal,
+**graph processing**
+on large-scale *distributed* clusters, 
+while utilizing *heterogeneous* architectures. 
+<!-- Towards this goal,
 I have built programming systems for 
 *distributed and heterogeneous graph analytics*
 and
@@ -45,7 +45,7 @@ My vision is to enable
 developers to express their application 
 in a domain-specific language 
 and run it efficiently on a variety of architectures 
-under different scenarios like sparsity or privacy of the datasets.
+under different scenarios like sparsity or privacy of the datasets. -->
 <!-- and 
 introduces new techniques in programming systems
 for sparse computing and privacy-preserving applications respectively.  -->
@@ -65,7 +65,7 @@ by working on *programming models, compilers, and
 runtimes that enable application developers to extract performance 
 from parallel architectures with little effort*.  -->
 
-**Distributed and Heterogeneous Graph Analytics**: 
+**Distributed and Heterogeneous Graph Processing**: 
 Unstructured datasets are used by applications in areas such as 
 machine learning, 
 data mining, bioinformatics, network science, and security. 
@@ -80,8 +80,6 @@ Existing shared-memory graph analytics frameworks or applications
 can use our system to scale out to distributed CPUs and GPUs. 
 [[PLDI 2018](https://roshandathathri.github.io/publication/2018-pldi), 
 [ASPLOS 2019](https://roshandathathri.github.io/publication/2019-asplos), 
-[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-1),
-[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-2),
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
@@ -95,6 +93,21 @@ can use our system to scale out to distributed CPUs and GPUs.
 *distributed and heterogeneous systems for sparse computation 
 like graph databases, graph mining, graph embeddings,
 sparse deep learning, and mesh-based numerical simulation*. -->
+
+**Single Machine Graph Processing**: 
+Graph pattern mining applications are used in chemical engineering, 
+bioinformatics, and social sciences. I have worked on building a 
+high-level programming language and runtime system that can execute 
+such applications on shared-memory CPUs or a GPU. For graph analytical 
+applications, I have worked on improving the performance of graph 
+analytics systems on byte-addressable memory like Intel Optane DC Persistent Memory.
+I have also compared different language abstractions and 
+runtime systems for graph analytics on shared-memory CPUs, and 
+identified their performance bottlenecks. 
+[[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-1),
+[VLDB 2020](https://roshandathathri.github.io/publication/2020-vldb-2),
+[IISWC 2020](https://roshandathathri.github.io/publication/2020-iiswc-1),
+[IISWC 2020](https://roshandathathri.github.io/publication/2020-iiswc-2)]
 
 **Privacy-Preserving Neural Network Inferencing**: 
 In many applications, privacy of the datasets used must be preserved. 
@@ -136,6 +149,9 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our study on [Matrix-based vs. Graph-based APIs](https://roshandathathri.github.io/publication/2020-iiswc-2) was accepted to **IISWC 2020**.
+* Our study on [Performance of Graph Analytics Frameworks](https://roshandathathri.github.io/publication/2020-iiswc-1) was accepted to **IISWC 2020**.
+* I'm serving on the External Review Committee for **ASPLOS 2021**.
 * Our paper on [Encrypted Vector Arithmetic (EVA) Language and Compiler for Homomorphic Computation](https://roshandathathri.github.io/publication/2020-pldi) was accepted to **PLDI 2020**.
 * Our paper on analyzing massive graph datasets using [Intel Optance DC Persistent Memory](https://roshandathathri.github.io/publication/2020-vldb-2) was accepted to **PVLDB 13(8) 2020** (Read about our work in the [SIGARCH blog](https://www.sigarch.org/using-intel-optane-dc-persistent-memory-for-in-memory-graph-analytics/)).
 * Our paper on [Pangolin Graph Pattern Mining](https://roshandathathri.github.io/publication/2020-vldb-1) framework on a CPU or GPU was accepted to **PVLDB 13(8) 2020** (Read about our work in the [UTCS blog](https://www.cs.utexas.edu/news/2020/pangolin-efficient-and-flexible-graph-mining-system-cpu-and-gpu)). 

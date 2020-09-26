@@ -29,8 +29,16 @@ Education
   * [B. M. S. College of Engineering](http://www.bmsce.in/)
   * Aggregate: 74%
   
-Professional experience
+Professional Experience
 ======
+* [Katana Graph](https://katanagraph.com/) : June 2020 to present
+  * Senior Software Engineer 
+  * CTO: [Dr. Chris Rossbach](https://www.cs.utexas.edu/~rossbach/)
+
+* [University of Texas at Austin](http://www.oden.utexas.edu/) : Summer 2020
+  * Post-Doctoral Research Scholar
+  * Supervisor: [Dr. Keshav Pingali](http://www.cs.utexas.edu/~pingali/)
+
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/cryptography-research/) : Summer 2019
   * Research Intern 
   * Supervisor: [Dr. Kim Laine](http://www.microsoft.com/en-us/research/people/kilai/)
@@ -75,7 +83,8 @@ Teaching Assistant
 
 Service
 ======
-* Code Generation and Optimization (**CGO**) Artifact Evaluation Committeee (**AEC**), 2018
+* Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) External Review Committee (**ERC**), 2021
+* Code Generation and Optimization (**CGO**) Artifact Evaluation Committee (**AEC**), 2018
 
 Technical Skills
 ======
