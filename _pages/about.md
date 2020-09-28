@@ -30,7 +30,18 @@ where I collaborated with several researchers including
 
 # Research Interests
 
-My goal is to build domain-specific 
+My research interests are broadly in the field of 
+**programming languages and systems**, 
+with an emphasis on optimizing compilers and runtime systems for 
+*distributed* and *heterogeneous* architectures. 
+Currently, my focus is on building 
+large-scale graph databases and systems for machine learning. In recent work, 
+I have built programming languages, compilers, and runtime systems for 
+**distributed, heterogeneous graph processing** and 
+**privacy-preserving neural network inferencing**. 
+This work has been published in PLDI, ASPLOS, VLDB, IPDPS, PPoPP, PACT, and IISWC. 
+A brief summary of my past work can be found below.
+<!-- My goal is to build domain-specific 
 **programming languages, compilers, and runtime systems**
 that make it easy to develop efficient
 **graph processing**
