@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Roshan Dathathri"
   avatar           : "profile.jpg"
-  bio              : "Post-doctoral researcher in Computer Science"
+  bio              : "Researcher in Computer Science"
   location         : "Austin, Texas"
-  employer         : "University of Texas at Austin"
+  employer         : "Katana Graph"
   googlescholar    : "https://scholar.google.com/citations?user=qTJqyyIAAAAJ&hl=en"
   email            : "roshan (at) katanagraph.com"
   uri              :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://twitter.com/roshan18
   vine             :
   weibo            :
   xing             :
