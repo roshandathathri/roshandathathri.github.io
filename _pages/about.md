@@ -160,6 +160,7 @@ that contain both affine and irregular accesses.
 
 # News
 
+* I'm serving on the Program Committee for **IPDPS 2021**.
 * Our study on [Matrix-based vs. Graph-based APIs](https://roshandathathri.github.io/publication/2020-iiswc-2) was accepted to **IISWC 2020**.
 * Our study on [Performance of Graph Analytics Frameworks](https://roshandathathri.github.io/publication/2020-iiswc-1) was accepted to **IISWC 2020**.
 * I'm serving on the External Review Committee for **ASPLOS 2021**.
