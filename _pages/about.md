@@ -94,6 +94,7 @@ can use our system to scale out to distributed CPUs and GPUs.
 [VLDB 2018](https://roshandathathri.github.io/publication/2018-vldb), 
 [PPoPP 2019](https://roshandathathri.github.io/publication/2019-ppopp), 
 [PACT 2019](https://roshandathathri.github.io/publication/2019-pact), 
+[IPDPS 2021](https://roshandathathri.github.io/publication/2021-ipdps), 
 [IPDPS 2020](https://roshandathathri.github.io/publication/2020-ipdps), 
 [IPDPS 2019](https://roshandathathri.github.io/publication/2019-ipdps), 
 [IPDPS 2018](https://roshandathathri.github.io/publication/2018-ipdps), 
