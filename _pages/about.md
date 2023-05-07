@@ -14,9 +14,6 @@ the startup based in part on my PhD research.
 The startup was founded in 2020 by
 [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) and
 [Dr. Chris Rossbach](https://www.cs.utexas.edu/~rossbach/).
-We are looking for motivated engineers. Please look at the
-[careers](https://katanagraph.com/company/careers) page and
-apply directly if you are interested.
 
 I received my PhD from the [University of Texas at Austin](https://www.cs.utexas.edu/),
 where I was advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).
@@ -38,7 +35,7 @@ My research interests are broadly in the field of
 with an emphasis on optimizing compilers and runtime systems for
 *distributed* and *heterogeneous* architectures.
 Currently, my focus is on building
-large-scale graph databases and systems for machine learning. In recent work,
+large-scale graph and AI systems. In recent work,
 I have built programming languages, compilers, and runtime systems for
 **distributed, heterogeneous graph processing** and
 **privacy-preserving neural network inferencing**.
@@ -136,6 +133,10 @@ translating tensor programs like neural network inferencing
 to run on encrypted data using FHE libraries
 efficiently, while guaranteeing security and accuracy
 of the computation.
+I also designed a new encrypted vector arithmetic language for developing
+general-purpose FHE applications
+and built an optimizing compiler that generates correct and secure programs,
+while hiding all the complexities of the target FHE scheme.
 [[PLDI 2020](https://roshandathathri.github.io/publication/2020-pldi),
 [PLDI 2019](https://roshandathathri.github.io/publication/2019-pldi)]
 <!-- Building on this, I intend to help program *privacy-preserving
@@ -165,6 +166,8 @@ that contain both affine and irregular accesses.
 
 # News
 
+* I'm serving on the Program Committee for **IPDPS 2023**.
+* I'm serving on the Program Committee for **PACT 2022**.
 * I'm serving on the Program Committee for **IPDPS 2022**.
 * Our [Sandslash: A Two-Level Framework for Efficient Graph Pattern Mining](https://dl.acm.org/doi/10.1145/3447818.3460359) paper was accepted to **ICS 2021**.
 * Our [GraphAny2Vec Distributed Training of Embeddings using Gluon](https://roshandathathri.github.io/publication/2021-ipdps) paper was accepted to **IPDPS 2021**.
