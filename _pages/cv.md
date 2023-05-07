@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF format here](https://www.cs.utexas.edu/~roshan/cv.pdf)
+[Download CV in PDF format here](https://roshandathathri.github.io/files/cv.pdf)
 
 Education
 ======
@@ -17,17 +17,12 @@ Education
   * [University of Texas at Austin](http://www.cs.utexas.edu/)
   * Advisor: [Dr. Keshav Pingali](http://www.cs.utexas.edu/~pingali/)
   * Thesis: [Compiler and Runtime Systems for Homomorphic Encryption and Graph Processing on Distributed and Heterogeneous Architectures](https://roshandathathri.github.io/phddissertation/)
-  <!-- * Courses: Prediction Mechanisms in Computer Architecture, Distributed Computing, Dynamic Compilation, Automated Verification, Automated Logical Reasoning, Programming Languages, Linear Algebra
-  * CGPA: 3.67/4.0 -->
 * M.Sc. (Engg.) in Computer Science and Engineering, 2014
   * [Indian Institute of Science](http://www.csa.iisc.ernet.in/)
   * Advisor: [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/)
   * Thesis: [Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures](https://roshandathathri.github.io/msthesis/)
-  <!-- * Courses: Compiler Design, Advanced Techniques in Compilers and Parallelization for Parallel Architectures, Computer Architecture, Design and Analysis of Algorithms
-  * CGPA: 7.75/8.0 -->
 * B.E. in Information Science and Engineering, 2008
   * [B. M. S. College of Engineering](http://www.bmsce.in/)
-  <!-- * Aggregate: 74% -->
 
 Professional Experience
 ======
