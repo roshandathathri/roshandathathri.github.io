@@ -19,7 +19,7 @@ Education
   * Thesis: [Compiler and Runtime Systems for Homomorphic Encryption and Graph Processing on Distributed and Heterogeneous Architectures](https://roshandathathri.github.io/phddissertation/)
 * M.Sc. (Engg.) in Computer Science and Engineering, 2014
   * [Indian Institute of Science](http://www.csa.iisc.ernet.in/)
-  * Advisor: [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/)
+  * Advisor: [Dr. Uday Bondhugula](https://www.csa.iisc.ac.in/~udayb/)
   * Thesis: [Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures](https://roshandathathri.github.io/msthesis/)
 * B.E. in Information Science and Engineering, 2008
   * [B. M. S. College of Engineering](http://www.bmsce.in/)
@@ -44,7 +44,7 @@ Professional Experience
 
 * [Ohio State University](https://cse.osu.edu/) : November 2013 to July 2014
   * Research Scholar
-  * Supervisor: [Dr. P. Sadayappan](http://www.cse.ohio-state.edu/~saday/)
+  * Supervisor: [Dr. P. Sadayappan](https://users.cs.utah.edu/~saday/)
 
 * [National Instruments (NI) R & D](http://www.ni.com/) : July 2008 to July 2011
   * Staff Software Engineer
