@@ -34,8 +34,8 @@ My research interests are broadly in the field of
 **programming languages and systems**,
 with an emphasis on optimizing compilers and runtime systems for
 *distributed* and *heterogeneous* architectures.
-Currently, my focus is on building
-large-scale graph and AI systems. In recent work,
+My current focus is on building
+efficient and secure AI systems. In recent work,
 I have built programming languages, compilers, and runtime systems for
 **distributed, heterogeneous graph processing** and
 **privacy-preserving neural network inferencing**.
