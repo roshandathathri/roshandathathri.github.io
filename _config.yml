@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roshan Dathathri"
 title_separator          : "-"
 name                     : &name "Roshan Dathathri"
-description              : &description "PhD student in Computer Science at the University of Texas, Austin"
+description              : &description "Senior Researcher in Microsoft"
 url                      : https://roshandathathri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roshandathathri.github.io"
@@ -81,10 +81,10 @@ author:
   name             : "Roshan Dathathri"
   avatar           : "profile.jpg"
   bio              : "Researcher in Computer Science"
-  location         : "Austin, Texas"
-  employer         : "Katana Graph"
+  location         : "Redmond, Washington"
+  employer         : "Microsoft Research"
   googlescholar    : "https://scholar.google.com/citations?user=qTJqyyIAAAAJ&hl=en"
-  email            : "roshan.dathathri (at) gmail.com"
+  email            : "roshan.dathathri (at) microsoft.com"
   uri              :
   bitbucket        :
   codepen          :
