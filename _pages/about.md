@@ -9,18 +9,12 @@ redirect_from:
   - /~roshan/
 ---
 
-I lead the Graph Engine team in [Katana Graph](https://katanagraph.com/),
-the startup based partly on my PhD research.
-The startup was founded in 2020 by
-[Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) and
-[Dr. Chris Rossbach](https://www.cs.utexas.edu/~rossbach/).
-
+I'm a researcher in the Systems Research Group at Microsoft Research.
 I received my PhD from the [University of Texas at Austin](https://www.cs.utexas.edu/),
 where I was advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).
 I received my masters from the
 [Indian Institute of Science](https://www.csa.iisc.ac.in/), where I was advised by
 [Dr. Uday Bondhugula](https://www.csa.iisc.ac.in/~udayb/).
-
 During the summer of 2018 and 2019, I was a research intern in
 [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/),
 where I collaborated with several researchers including
@@ -166,6 +160,7 @@ that contain both affine and irregular accesses.
 
 # News
 
+* I'm joining Microsoft Research.
 * I'm serving on the Program Committee for **IPDPS 2023**.
 * I'm serving on the Program Committee for **PACT 2022**.
 * I'm serving on the Program Committee for **IPDPS 2022**.
