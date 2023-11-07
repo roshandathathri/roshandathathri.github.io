@@ -9,18 +9,18 @@ redirect_from:
   - /~roshan/
 ---
 
-I'm a researcher in the Systems Research Group at Microsoft Research.
+I'm a researcher in the [Systems Research Group at Microsoft Research](https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/).
 I received my PhD from the [University of Texas at Austin](https://www.cs.utexas.edu/),
 where I was advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).
 I received my masters from the
 [Indian Institute of Science](https://www.csa.iisc.ac.in/), where I was advised by
 [Dr. Uday Bondhugula](https://www.csa.iisc.ac.in/~udayb/).
-During the summer of 2018 and 2019, I was a research intern in
+<!-- During the summer of 2018 and 2019, I was a research intern in
 [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise/),
 where I collaborated with several researchers including
 [Dr. Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/),
 [Dr. Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/), and
-[Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/).
+[Dr. Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/). -->
 
 # Research Interests
 
@@ -29,7 +29,7 @@ My research interests are broadly in the field of
 with an emphasis on optimizing compilers and runtime systems for
 *distributed* and *heterogeneous* architectures.
 My current focus is on building
-efficient and secure AI systems. In recent work,
+efficient systems for AI. In the past,
 I have built programming languages, compilers, and runtime systems for
 **distributed, heterogeneous graph processing** and
 **privacy-preserving neural network inferencing**.
@@ -160,6 +160,8 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our "Kimbap: A Node-Property Map System for Distributed Graph Analytics" paper was accepted to **ASPLOS 2024**.
+* I'm serving on the Program Committee for **ASPLOS 2024**.
 * I'm joining Microsoft Research.
 * I'm serving on the Program Committee for **IPDPS 2023**.
 * I'm serving on the Program Committee for **PACT 2022**.
