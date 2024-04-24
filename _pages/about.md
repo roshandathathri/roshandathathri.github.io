@@ -160,13 +160,15 @@ that contain both affine and irregular accesses.
 
 # News
 
-* Our "Kimbap: A Node-Property Map System for Distributed Graph Analytics" paper was accepted to **ASPLOS 2024**.
+* I'm serving as a Rapid Response Reviewer (RRR) for PVLDB Volume 18 (**VLDB 2025**).
+* I'm serving as a vice-chair for **ASPLOS 2025**.
+* Our [Kimbap: A Node-Property Map System for Distributed Graph Analytics](https://roshandathathri.github.io/publication/2024-asplos) paper was accepted to **ASPLOS 2024**.
 * I'm serving on the Program Committee for **ASPLOS 2024**.
 * I'm joining Microsoft Research.
 * I'm serving on the Program Committee for **IPDPS 2023**.
 * I'm serving on the Program Committee for **PACT 2022**.
 * I'm serving on the Program Committee for **IPDPS 2022**.
-* Our [Sandslash: A Two-Level Framework for Efficient Graph Pattern Mining](https://dl.acm.org/doi/10.1145/3447818.3460359) paper was accepted to **ICS 2021**.
+* Our [Sandslash: A Two-Level Framework for Efficient Graph Pattern Mining](https://roshandathathri.github.io/publication/2021-ics) paper was accepted to **ICS 2021**.
 * Our [GraphAny2Vec Distributed Training of Embeddings using Gluon](https://roshandathathri.github.io/publication/2021-ipdps) paper was accepted to **IPDPS 2021**.
 * I'm serving on the Program Committee for **IPDPS 2021**.
 * Our study on [Matrix-based vs. Graph-based APIs](https://roshandathathri.github.io/publication/2020-iiswc-2) was accepted to **IISWC 2020**.
