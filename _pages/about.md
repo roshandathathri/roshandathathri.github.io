@@ -161,9 +161,14 @@ that contain both affine and irregular accesses.
 
 # News
 
+* I'm serving on the Program Committee for **ASPLOS 2027**.
+* I'm serving on the Program Commiteee for **SC 2026**.
+* Our [Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](https://roshandathathri.github.io/publication/2026-mlsys) paper was accepted to **MLSys 2026**.
+* Our [MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://roshandathathri.github.io/publication/2026-asplos) paper was accepted to **ASPLOS 2026**.
+* I'm serving on the Program Committee for **PPoPP 2025**.
 * I'm serving as a Rapid Response Reviewer (RRR) for PVLDB Volume 18 (**VLDB 2025**).
 * I'm serving as a vice-chair for **ASPLOS 2025**.
-* Our [Kimbap: A Node-Property Map System for Distributed Graph Analytics](https://www.microsoft.com/en-us/research/publication/kimbap-a-node-property-map-system-for-distributed-graph-analytics/) paper was accepted to **ASPLOS 2024**.
+* Our [Kimbap: A Node-Property Map System for Distributed Graph Analytics](https://roshandathathri.github.io/publication/2024-asplos) paper was accepted to **ASPLOS 2024**.
 * I'm serving on the Program Committee for **ASPLOS 2024**.
 * I'm joining Microsoft Research.
 * I'm serving on the Program Committee for **IPDPS 2023**.
