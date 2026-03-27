@@ -161,6 +161,7 @@ that contain both affine and irregular accesses.
 
 # News
 
+* Our [MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://roshandathathri.github.io/publication/2026-asplos) paper was one of the **Best Paper - Honorable Mention**s at **ASPLOS 2026**.
 * I'm serving on the Program Committee for **ASPLOS 2027**.
 * I'm serving on the Program Commiteee for **SC 2026**.
 * Our [Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](https://roshandathathri.github.io/publication/2026-mlsys) paper was accepted to **MLSys 2026**.
